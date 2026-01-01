@@ -29,7 +29,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="right"  src="https://github-readme-stats.vercel.app/api?username=Sanara-Perera&theme=dark&show_icons=true&count_private=true" />
+  <img  align="right"  src="https://github-readme-stats.vercel.app/api?username=Sanara-Perera&theme=dark&show_icons=true" />
   
   
 
