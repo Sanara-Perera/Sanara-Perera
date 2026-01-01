@@ -23,19 +23,16 @@
 
 <br><br><br>
 
-<h3 align="center">📊 My Statistics 📊</h3>
+<h3 align="center">📊 MY STATISTICS 📊</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img align="right" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sanara-Perera&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats">
-  
-  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanara-Perera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanara-Perera&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 
-  <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sanara-Perera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+</td>
 </tr>
 </table>
 
