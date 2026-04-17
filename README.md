@@ -4,29 +4,49 @@
 
 <br>
 
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">Hi 👋, I'm Sanara Perera</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanara-perera&label=Profile%20views&color=0e75b6&style=flat" alt="sanara-perera" /> </p>
+
+---
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
+
+- 🔭  I'm building front-end, web apps, and small tools
+  
+- 🧑‍🎓 I'm a Computer Science Undergraduate at IIT
+  
+- 🌱 I’m currently learning OOP with java
+  
+- 👨‍💻 All of my projects are Below
+
+- 💬 Ask me about python
+
+- ⚡ My linkedin **https://www.linkedin.com/in/sanaraperera/**
+  
+- 📫 How to reach me **sanaraperera2003@gmail.com**
+
+<br><br><br><br>
+
+<h3 align="center">📊 MY STATISTICS 📊</h3>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanara-Perera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanara-Perera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<h2 align="center">📈 CONTRIBUTION GRAPH 📈</h2>
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sanara-Perera&label=Profile+Views&color=00e5ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Sanara-Perera?label=Followers&style=flat-square&color=c084fc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00e5ff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanaraperera/)
-[![Email](https://img.shields.io/badge/Email-Contact-c084fc?style=flat-square&logo=gmail)](mailto:sanaraperera2003@gmail.com)
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanara-Perera&bg_color=011627&color=00e5ff&line=c084fc&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## `> whoami`
 
-```yaml
-name    : Sanara Perera
-role    : Computer Science Undergraduate
-status  : Currently learning OOP with Java
-focus   : Front-end · Web Apps · AI / ML Enthusiast
-contact : sanaraperera2003@gmail.com
-linkedin: linkedin.com/in/sanaraperera
-```
-
----
 
 ## `> ls -la /skills`
 
@@ -51,37 +71,8 @@ linkedin: linkedin.com/in/sanaraperera
 
 ---
 
-## `> cat /projects`
 
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏛️ [Smart Campus API](https://github.com/Sanara-Perera/smart-campus-api) | RESTful API for campus room & IoT sensor management | `Java` `JAX-RS` `Jersey` `Maven` |
-| 🌐 Coming soon... | Front-end web application | `React` `JavaScript` `CSS` |
-
-</div>
-
----
-
-## `> cat /stats`
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanara-Perera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanara-Perera&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanara-Perera&bg_color=011627&color=00e5ff&line=c084fc&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## `> ping /connect`
+## `> Connect With Me`
 
 <div align="center">
 
@@ -104,3 +95,6 @@ linkedin: linkedin.com/in/sanaraperera
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Always+learning.+Always+building.+Always+growing.)
 
 </div>
+
+
+
