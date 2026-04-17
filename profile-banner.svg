@@ -215,7 +215,7 @@
     <text x="400" y="136" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#80deea">React</text>
     <!-- AI ML tag -->
     <rect x="434" y="124" width="96" height="18" rx="9" fill="none" stroke="#c084fc" stroke-width="0.7" opacity="0.35"/>
-    <text x="482" y="136" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#d8b4fe">AI / ML Enthusiast</text>
+    <text x="482" y="136" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#d8b4fe">AI Enthusiast</text>
     <!-- Open Source tag -->
     <rect x="538" y="124" width="78" height="18" rx="9" fill="none" stroke="#00e5ff" stroke-width="0.7" opacity="0.35"/>
     <text x="577" y="136" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#80deea">Open Source</text>
