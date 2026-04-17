@@ -1,56 +1,106 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Sanara Perera</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanara-perera&label=Profile%20views&color=0e75b6&style=flat" alt="sanara-perera" /> </p>
+<div align="center">
+<img src="profile-banner.svg" width="100%" alt="Sanara Perera"/>
+</div>
 
----
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 🔭  I'm building front-end, web apps, and small tools
-  
-- 🧑‍🎓 I'm a Computer Science Undergraduate at IIT
-  
-- 🌱 I’m currently learning OOP with java
-  
-- 👨‍💻 All of my projects are Below
-
-- 💬 Ask me about python
-
-- ⚡ My linkedin **https://www.linkedin.com/in/sanaraperera/**
-  
-- 📫 How to reach me **sanaraperera2003@gmail.com**
-
-<br><br><br><br>
-
-<h3 align="center">📊 MY STATISTICS 📊</h3>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanara-Perera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanara-Perera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<h2 align="center">📈 CONTRIBUTION GRAPH 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanara-Perera&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanara-Perera&label=Profile+Views&color=00e5ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Sanara-Perera?label=Followers&style=flat-square&color=c084fc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00e5ff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanaraperera/)
+[![Email](https://img.shields.io/badge/Email-Contact-c084fc?style=flat-square&logo=gmail)](mailto:sanaraperera2003@gmail.com)
+
 </div>
 
 ---
 
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/sanaraperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaraperera" height="30" width="40" /></a>
-<a href="https://github.com/Sanara-Perera" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" alt="Sanara-Perera" height="40" width="45" /> </a>
+## `> whoami`
 
-
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+```yaml
+name    : Sanara Perera
+role    : Computer Science Undergraduate
+status  : Currently learning OOP with Java
+focus   : Front-end · Web Apps · AI / ML Enthusiast
+contact : sanaraperera2003@gmail.com
+linkedin: linkedin.com/in/sanaraperera
+```
 
 ---
 
+## `> ls -la /skills`
 
+<div align="center">
 
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+</div>
+
+---
+
+## `> cat /projects`
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏛️ [Smart Campus API](https://github.com/Sanara-Perera/smart-campus-api) | RESTful API for campus room & IoT sensor management | `Java` `JAX-RS` `Jersey` `Maven` |
+| 🌐 Coming soon... | Front-end web application | `React` `JavaScript` `CSS` |
+
+</div>
+
+---
+
+## `> cat /stats`
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanara-Perera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanara-Perera&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanara-Perera&bg_color=011627&color=00e5ff&line=c084fc&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `> ping /connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanara_Perera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanaraperera)
+[![GitHub](https://img.shields.io/badge/GitHub-Sanara--Perera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanara-Perera)
+[![Email](https://img.shields.io/badge/Gmail-sanaraperera2003-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanaraperera2003@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║   Built with curiosity · Powered by coffee   ║
+╚══════════════════════════════════════════════╝
+```
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Always+learning.+Always+building.+Always+growing.)
+
+</div>
