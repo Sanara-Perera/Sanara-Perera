@@ -2,9 +2,7 @@
 <img src="profile-banner.svg" width="100%" alt="Sanara Perera"/>
 </div>
 
-<br>
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Sanara Perera</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanara-perera&label=Profile%20views&color=0e75b6&style=flat" alt="sanara-perera" /> </p>
@@ -48,7 +46,7 @@
 
 
 
-## `> ls -la /skills`
+## `> Languages & Skills`
 
 <div align="center">
 
@@ -73,7 +71,7 @@
 
 
 ## `> Connect With Me`
-
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanara_Perera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanaraperera)
